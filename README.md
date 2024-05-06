@@ -46,6 +46,9 @@ Here are some potential enhancements for the PDF-Chat App:
 
 We welcome your feedback and suggestions for improving the PDF-Chat App. If you encounter any issues or have ideas for enhancements, please feel free to open an issue on the GitHub repository.
 
+This project’s open source nature, one-month free use of the OpenAI API, and need to purchase an API key are its only drawbacks.
+However, in my opinion, it’s worthwhile.
+
 Thank you for using the PDF-Chat App!
 
 
